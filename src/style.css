@@ -1,1 +1,27 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+  border-radius: 10px;
+  text-align: center;
+  border: 5px solid cornflowerblue;
+}
+div {
+  display: flex;
+  justify-content: center;
+  background-color: burlywood;
+  padding: 5px;
+  margin-left: 500px;
+  margin-right: 500px;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 24px;
+}
