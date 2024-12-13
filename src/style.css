@@ -12,7 +12,7 @@ h1 {
   text-align: center;
   border: 5px solid cornflowerblue;
 }
-div {
+#excuseText {
   display: flex;
   justify-content: center;
   background-color: burlywood;
